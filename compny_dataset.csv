@@ -1,0 +1,17 @@
+company,job,degree,salary>100k
+google,sales executive,bachelor,0
+google,sales executive,masters,0
+google,business magager,bachelor,1
+google,business magager,masters,1
+google,computer pragrammer,bachelor,0
+google,computer pragrammer,masters,1
+abc pharma,sales executive,masters,0
+abc pharma,computer pragrammer,bachelor,0
+abc pharma,business magager,bachelor,0
+abc pharma,business magager,masters,1
+facebook,sales executive,bachelor,1
+facebook,sales executive,masters,1
+facebook,business magager,bachelor,1
+facebook,business magager,masters,1
+facebook,computer pragrammer,bachelor,1
+facebook,computer pragrammer,masters,1
